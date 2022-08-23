@@ -1,0 +1,8 @@
+{
+  "electron": {
+    "fullscreen": true,
+    "kiosk": true
+  },
+  "url": "https://github.com",
+  "app": {}
+}
